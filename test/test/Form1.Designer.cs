@@ -41,9 +41,9 @@ namespace test
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(199, 81);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 17);
+            this.label1.Size = new System.Drawing.Size(100, 17);
             this.label1.TabIndex = 2;
-            this.label1.Text = "UserName";
+            this.label1.Text = "tên đăng nhập";
             // 
             // txtUsername
             // 
@@ -57,9 +57,9 @@ namespace test
             this.lbl1.AutoSize = true;
             this.lbl1.Location = new System.Drawing.Point(202, 155);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(69, 17);
+            this.lbl1.Size = new System.Drawing.Size(66, 17);
             this.lbl1.TabIndex = 4;
-            this.lbl1.Text = "Password";
+            this.lbl1.Text = "mật khẩu";
             // 
             // txtpassword
             // 
