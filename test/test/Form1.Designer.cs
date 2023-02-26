@@ -41,7 +41,7 @@ namespace test
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(199, 81);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(100, 17);
+            this.label1.Size = new System.Drawing.Size(92, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "tên đăng nhập";
             // 
@@ -57,7 +57,7 @@ namespace test
             this.lbl1.AutoSize = true;
             this.lbl1.Location = new System.Drawing.Point(202, 155);
             this.lbl1.Name = "lbl1";
-            this.lbl1.Size = new System.Drawing.Size(66, 17);
+            this.lbl1.Size = new System.Drawing.Size(61, 16);
             this.lbl1.TabIndex = 4;
             this.lbl1.Text = "mật khẩu";
             // 
@@ -74,7 +74,7 @@ namespace test
             this.btnlogin.Name = "btnlogin";
             this.btnlogin.Size = new System.Drawing.Size(154, 37);
             this.btnlogin.TabIndex = 6;
-            this.btnlogin.Text = "Login";
+            this.btnlogin.Text = "đăng nhập";
             this.btnlogin.UseVisualStyleBackColor = true;
             // 
             // Form1
